@@ -51,7 +51,7 @@ For Supertagging evaluation on CCGBank, performance is only calculated over the 
 
 | Model           | Accuracy |  Paper / Source |
 | ------------- | :-----:| --- |
-| Clark et al. (2018) | 96.1 | [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/abs/1809.08370) |
+| Clark et al. (2018) | 96.1 | [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/abs/1809.08370)| | Cui and Zhang (2019) | 94.7 | [Hierarchically-Refined Label Attention Network for Sequence Labeling](https://www.aclweb.org/anthology/D19-1422.pdf)|
 | Lewis et al. (2016) | 94.7 | [LSTM CCG Parsing](https://aclweb.org/anthology/N/N16/N16-1026.pdf) |
 | Vaswani et al. (2016) | 94.24 | [Supertagging with LSTMs](https://aclweb.org/anthology/N/N16/N16-1027.pdf) |
 | Low supervision (Søgaard and Goldberg, 2016) | 93.26 | [Deep multi-task learning with low level tasks supervised at lower layers](http://anthology.aclweb.org/P16-2038) |
