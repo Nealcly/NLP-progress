@@ -65,6 +65,7 @@ The [Ontonotes corpus v5](https://catalog.ldc.upenn.edu/docs/LDC2013T19/OntoNote
 | ------------- | :-----:| --- | --- |
 | Flair embeddings (Akbik et al., 2018) | 89.71 | [Contextual String Embeddings for Sequence Labeling](http://aclweb.org/anthology/C18-1139) | [Official](https://github.com/zalandoresearch/flair) |
 | CVT + Multi-Task (Clark et al., 2018) | 88.81 | [Semi-Supervised Sequence Modeling with Cross-View Training](https://arxiv.org/abs/1809.08370)  | [Official](https://github.com/tensorflow/models/tree/master/research/cvt_text) |
+| Bi-LSTM-LAN(Cui and Zhang, 2019) | 88.16 | [Hierarchically-Refined Label Attention Network for Sequence Labeling](https://www.aclweb.org/anthology/D19-1422.pdf)| [Official](https://github.com/Nealcly/LAN)|
 | Bi-LSTM-CRF + Lexical Features (Ghaddar and Langlais 2018) | 87.95 | [Robust Lexical Features for Improved Neural Network Named-Entity Recognition](https://arxiv.org/pdf/1806.03489.pdf) | [Official](https://github.com/ghaddarAbs/NER-with-LS)|
 | BiLSTM-CRF (Strubell et al, 2017) | 86.99 | [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/pdf/1702.02098.pdf)  | [Official](https://github.com/iesl/dilated-cnn-ner) |
 | Iterated Dilated CNN (Strubell et al, 2017) | 86.84 | [Fast and Accurate Entity Recognition with Iterated Dilated Convolutions](https://arxiv.org/pdf/1702.02098.pdf)  | [Official](https://github.com/iesl/dilated-cnn-ner) |
